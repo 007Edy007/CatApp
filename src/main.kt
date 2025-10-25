@@ -5,7 +5,7 @@ fun main() {
     val cupra = Cat("Cupra", 2, 7)
     binnie.walk()
     clyde.walk()
-    flathead.eat(2)
+    flathead.eat(11)
 
     cupra.walk(4)
 
