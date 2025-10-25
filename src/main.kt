@@ -5,12 +5,10 @@ fun main() {
     val cupra = Cat("Cupra", 2, 7)
     binnie.walk()
     clyde.walk()
-    flathead.eat()
-    flathead.eat()
-    cupra.walk()
-    cupra.walk()
-    cupra.walk()
-    cupra.walk()
+    flathead.eat(2)
+
+    cupra.walk(4)
+
     println(binnie)
     println(clyde)
     println(cupra)
